@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Sankalp Singh</h1>
-<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Hackathon Explorer</h3>
+<h3 align="center"> A passionate Full-Stack Developer from India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sankalp-singh-0b1354332/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-Hey! I'm **Sankalp**, a second-year Computer Science student and passionate Full-Stack Developer from India. I love turning creative ideas into real-world web applications.
+Hey! I'm **Sankalp**, a third-year Computer Science student and passionate Full-Stack Developer. I love turning creative ideas into real-world web applications.
 
 💡 I specialize in building clean UIs, robust backend APIs, and complete end-to-end apps using modern web technologies.
 
@@ -66,16 +66,11 @@ Recipe-sharing directory with clean UI & SSR optimization
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Sanity](https://img.shields.io/badge/-Sanity-FF3C00?style=flat&logo=sanity&logoColor=white)
 
-#### 🧪 Testing & Dev Tools
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Turborepo](https://img.shields.io/badge/-Turborepo-000000?style=flat&logo=turbo&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ### 🎯 Highlights
 
-- ✅ **200+ DSA problems** solved on LeetCode  
+- ✅ **200+ DSA problems** DSA questions solved  
 - 🏆 **Hackathons:** Flipkart Grid 6.0, Hack-4-Mini 2.0, CodeClash  
 - 📚 Constantly learning and building with MERN & modern JS stacks  
 - 📫 Reach me: sankalp.singh.somvanshi@gmail.com
